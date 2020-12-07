@@ -3,7 +3,7 @@
 </p>
 
 
-# .Net Core Koans 
+# .Net Core Koans
 [![Build status](https://ci.appveyor.com/api/projects/status/j0ykx336513hmnep/branch/master?svg=true)](https://ci.appveyor.com/project/NotMyself/dotnetcorekoans/branch/master)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -22,9 +22,9 @@ Some koans simply need to have the correct answer substituted for an incorrect o
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=ta43g95Hznk">
-     <img 
-      src="https://s3-us-west-1.amazonaws.com/iamnotmyself-com/2020/11/Screen-Shot-2020-11-01-at-1.05.28-PM.png" 
-      alt=".NET Core Koans" 
+     <img
+      src="https://s3-us-west-1.amazonaws.com/iamnotmyself-com/2020/11/Screen-Shot-2020-11-01-at-1.05.28-PM.png"
+      alt=".NET Core Koans"
       style="width:100%;">
       </a>
     </div>
